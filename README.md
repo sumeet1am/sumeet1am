@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Sumeet</h1>
 
 <h3 align="center">
-Full Stack Developer • AI Enthusiast • CSE Student
+Full Stack Developer • CSE Student
 </h3>
 
 <p align="center">
